@@ -25,10 +25,6 @@ Check out the live project here: [Book App Live](https://glittery-horse-771d04.n
 - Fully responsive design
 - Deployed using Netlify
 
-## 📷 Screenshots
-
-![image](https://github.com/user-attachments/assets/6f693d9a-60f8-4d81-882d-427eb1f56351)
-![image](https://github.com/user-attachments/assets/80acb3d7-4718-4efd-91d0-53deccd4a9fc)
 
 
 
